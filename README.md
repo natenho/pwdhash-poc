@@ -13,7 +13,7 @@ Due to the changes this version is incompatible with the earlier PwdHash version
 
 You used to test out the updated version at the [PwdHash-PoC](https://www.cl.cam.ac.uk/~dl551/pwdhash) website, but the link is broken!
 
-You can test test out at [GitHub pages](https://natenho.github.io/pwdhash-poc/site/) of this repository.
+You can test out at [GitHub pages](https://natenho.github.io/pwdhash-poc/site/) of this repository.
 
 ## Deploy
 
